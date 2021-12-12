@@ -361,3 +361,4 @@ D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.
 D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
 D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
 D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\testing\Restaurant-Management-SoftWare\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
